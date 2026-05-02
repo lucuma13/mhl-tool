@@ -18,6 +18,6 @@ Alternatively, if you are on macOS or Linux you can use Homebrew:
 2. Tap and install:
 ```
 brew tap lucuma13/dit
-brew install heic2jpg
+brew install mhl-tool
 ```
 
